@@ -44,3 +44,6 @@ September 2005 - June 2010 | Kharkov
 
 ## Language 
 __English, B1__
+* Work and travel student program
+* Business trip to the USA
+* Business trip to Canada 
