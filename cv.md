@@ -33,9 +33,9 @@ June 2020 - April 2021
 * React
 * Node.js
 ### projects:
-* [Web Studio](https://gavrylenkodenys.github.io/goit-markup-hw-08/)
-* [My resume](https://gavrylenkodenys.github.io/resume/)
-* [JavaScript home task](https://gavrylenkodenys.github.io/goit-js-hw-07/)
+* [Web Studio](https://denis-gavrilenko0910.github.io/goit-markup-hw-08/)
+* [My resume](https://denis-gavrilenko0910.github.io/resume/)
+* [JavaScript home task](https://denis-gavrilenko0910.github.io/goit-js-hw-07/)
 
 ## Education
 __Kharkov State Academy of Culture | Ukraine__
